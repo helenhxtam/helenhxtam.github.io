@@ -1,6 +1,6 @@
 # helenhxtam.github.io
 
-A personal portfolio of functional course work and projects.
+A personal portfolio website of functional course work and projects that is currently under construction.
 
 ## Portfolio Theme
 
